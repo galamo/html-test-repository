@@ -14,5 +14,14 @@
 - git config --global user.email <email>
 
 
+Branch commands
+- git branch - list all the branches
+- git checkout <BranchName> - move to the relevant branch 
+- git checkout -b <BranchName> - create & move to the relevant branch 
+- git branch -D <branchName> delete the relevant branch name
+- git push origin head - push the current commits to the relevant branch
+- git pull - sync your local repository with the remote/origin repository ( branch )
+
+
 # Homework
 - select one of your HTML latest homework and publish it on git repository
