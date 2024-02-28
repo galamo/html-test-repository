@@ -7,6 +7,7 @@
 - git log - show all commits
 - git remote add origin <repositoryUrl> - connect the remote repository to the local repository
 - git branch -M main - change the main branch to master
+- git push origin head
 
 ## config user name and email - doing it only once per machine
 - git config --global user.name <userName>
