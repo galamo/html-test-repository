@@ -25,3 +25,11 @@ Branch commands
 
 # Homework
 - select one of your HTML latest homework and publish it on git repository
+
+
+# Homework 28/2
+- T_2_Q_9385488961_4556_מדריך_למידה___מבוא_לתכנות_21_02.pdf
+- Page 11 ( ex 1 - 7)
+- page 15 ex1, ex2, ex3 
+- page 18 ex1, ex2 
+- please upload it to your git in draw.io
