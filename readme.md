@@ -34,3 +34,8 @@ Branch commands
 - page 15 ex1, ex2, ex3 
 - page 18 ex1, ex2 
 - please upload it to your git in draw.io
+
+
+# Homework 3/3
+- page 15 ex7,ex8,ex9 
+- page 20 ex2, ex4
